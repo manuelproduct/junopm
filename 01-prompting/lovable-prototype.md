@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-_The public Lovable share URL._
+https://lovable.dev/preview/C75sE0SzOkgzuGTb3FpdjHDpySEKgnl8
 
 _____
 
